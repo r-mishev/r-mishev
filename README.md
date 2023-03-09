@@ -62,7 +62,7 @@ I am a Junior Developer, looking to improve in the fields of Functional Programm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-mishev&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mishev&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mishev&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107924021/223217272-a533b7aa-7108-4441-85be-4ae50eb805aa.png" width="100" />
