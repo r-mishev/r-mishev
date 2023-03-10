@@ -29,7 +29,6 @@ I am a Junior Developer, looking to improve in the fields of Functional Programm
 
 • :zap: In my free time, I read about **Quantum Physics, **Cooking and **Funtional Programming******
 
-******
 
 * * *
 
@@ -60,9 +59,13 @@ I am a Junior Developer, looking to improve in the fields of Functional Programm
 :fire: My Stats:
 ----------------
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-mishev&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img align="start" src="http://github-readme-streak-stats.herokuapp.com?user=r-mishev&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mishev&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats-h9ef-git-master-r-mishev.vercel.app/api/top-langs/?username=r-mishev&langs_count=8&layout=compact&theme=tokyonight" />
+</a>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107924021/223217272-a533b7aa-7108-4441-85be-4ae50eb805aa.png" width="100" />
